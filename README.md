@@ -1,7 +1,7 @@
 # DevOpsProject
 Imran Hussain
 I have build this repo for DevOps Project Simplilearn.
-I am updating this line from Git cli.
+I am updating this line from Git cli. 1....2....3
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
 ## Development server
